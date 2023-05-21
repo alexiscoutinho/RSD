@@ -2,10 +2,10 @@ AddonInfo
 {
 	addonSteamAppID		550
 	addonTitle			"Realism Special Delivery (new SD)"
-	addonVersion		0.1
+	addonVersion		1.0
 	addonAuthor			"Lcrft_sx and Jack Bauer ︻デ▬——"
 	addonAuthorSteamID	lcrftsx
-	addonURL0			""
+	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/2979006952
 	addonContent_Script	1
 	addonDescription	"Special Delivery with the Realism made by Valve.
 
