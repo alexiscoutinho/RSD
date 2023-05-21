@@ -1,0 +1,19 @@
+realismspecialdelivery
+{
+	base		realism
+	maxplayers	4
+
+	DisplayTitle		"Realism Special Delivery"
+	ShortDescription	"Realism Special Delivery (Realism made by Valve)."
+	Description			"Realism Special Delivery with the Realism made by Valve.
+
+The internal mode name for use in the console is realismspecialdelivery."
+	Author				"Lcrft_sx and Jack Bauer ︻デ▬——"
+	Image				vgui/realismspecialdelivery
+
+	convar
+	{
+		hud_deathnotice_threats 1
+		z_female_boomer_spawn_chance 50
+	}
+}

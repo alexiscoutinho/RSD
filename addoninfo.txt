@@ -1,0 +1,13 @@
+AddonInfo
+{
+	addonSteamAppID		550
+	addonTitle			"Realism Special Delivery (new SD)"
+	addonVersion		0.1
+	addonAuthor			"Lcrft_sx and Jack Bauer ︻デ▬——"
+	addonAuthorSteamID	lcrftsx
+	addonURL0			""
+	addonContent_Script	1
+	addonDescription	"Special Delivery with the Realism made by Valve.
+
+Source: https://github.com/alexiscoutinho/RSD"
+}
